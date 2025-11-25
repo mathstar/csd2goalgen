@@ -1,7 +1,7 @@
 # csd2goalgen
 
-**csd2goalgen** is a reimplementation of my Keymaster's Keep module for the 
-game *Cook, Serve, Delicious! 2!!* as a standalone goal generator.
+**csd2goalgen** is a reimplementation of my [Keymaster's Keep module](https://github.com/mathstar/KeymastersKeepGames) 
+for the game *Cook, Serve, Delicious! 2!!* as a standalone goal generator.
 
 Goals are generated for both Chef 4 Hire and Cook, Serve, Delicious modes
 taking the following parameters:
